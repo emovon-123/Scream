@@ -1,0 +1,4 @@
+# Optional audio dependencies
+# If PyAudio installation fails, the game can still be played with keyboard control
+
+pyaudio==0.2.13
